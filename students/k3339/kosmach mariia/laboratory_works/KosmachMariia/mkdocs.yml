@@ -11,6 +11,7 @@ nav:
   - 3 lab:
     - "Практическая работа": pr/pr1.md
     - "Лабораторная работа": LR3/lab3.md
+  - "Лабораторная работа 4": LR4/lab4.md
 
 theme:
   name: material
